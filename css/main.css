@@ -42,3 +42,77 @@ video {
 /* ====================================
 // base rules
 // ==================================== */
+
+/* mon code */
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+}
+.menu {
+  font-size: 19px;
+  text-decoration: none;
+}
+
+nav {
+  background: #fff;
+  display: inline-flex;
+  height: 19px;
+  align-items: flex-start;
+  gap: 17px;
+  padding: 20px 7px 53px 8px;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 400;
+  padding: 0 7px 0 7px;
+}
+
+h3 {
+  padding: 10px 7px 47px 7px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.Description {
+  padding: 0 284px 10px 9px;
+  font-size: 12px;
+}
+
+.gras {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+a {
+  font-size: 12px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+main {
+  background: #fff;
+}
+
+.paragraphes {
+  padding: 54px 77px 56px 7px;
+}
+
+.lien {
+  padding: 28px 0 16px 0;
+  text-align: center;
+}
+
+footer {
+  background: #000;
+  color: white;
+  padding: 30px 7px 36px 7px;
+}
+
+/* mon code */
