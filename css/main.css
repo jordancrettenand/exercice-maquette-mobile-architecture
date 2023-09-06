@@ -48,6 +48,8 @@ video {
 body {
   font-family: "Roboto", sans-serif;
   color: black;
+  max-width: 375px;
+  margin: auto;
 }
 .menu {
   font-size: 19px;
